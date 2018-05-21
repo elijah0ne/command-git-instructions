@@ -43,5 +43,8 @@
 - 'git add .' - same as above
 **git commit** -> takes staged file and makes save point / commit number
 - 'git commit -m 'enter in MEANINGFUL commit message''    
-**git checkout** -> creates a new branch
+**git checkout** -> creates a new branch 
+- 'git checkout -b [branch name]' - creates a new branch and switches to that branch
+- 'git checkout [branch name]' - switches to that branch
+
 
