@@ -35,3 +35,13 @@
 - 'cat [file name] [file name] ...' - will display file contents of all files selected in order
 
 #Git Commands
+**git init** -> this will add a local git repository to a directory
+**git status** -> this will show files that are untracked or tracked for next commit
+**git add** -> will add files to staging for next commit
+- 'git add [file name]' - will add individual file to staging
+- 'git add -A' - will add all files to staging
+- 'git add .' - same as above
+**git commit** -> takes staged file and makes save point / commit number
+- 'git commit -m 'enter in MEANINGFUL commit message''    
+**git checkout** -> creates a new branch
+
