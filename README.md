@@ -1,4 +1,4 @@
-#Navigation Terminal quote>
+# Navigation Terminal quote>
 **cd** -> Change directory
 - cd ~ Change direcory to home
 **ls** -> display what is in current directory
@@ -9,7 +9,7 @@
 
 
 
-#File Manipulation 
+# File Manipulation 
 **man** -> this will pull up manual for commands 
 - 'man [commmand here]' -- will display tons of information about the command- q to exit
 **|** -> pipe will execute command on left side first then execute command on right
@@ -34,7 +34,7 @@
 - 'cat [file name]' - will display file contents
 - 'cat [file name] [file name] ...' - will display file contents of all files selected in order
 
-#Git Commands
+# Git Commands
 **git init** -> this will add a local git repository to a directory
 **git status** -> this will show files that are untracked or tracked for next commit
 **git add** -> will add files to staging for next commit
